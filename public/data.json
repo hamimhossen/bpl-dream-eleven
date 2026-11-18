@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "playerName": "Virat Kohli",
+        "playerCountry": "India",
+        "playerType": "Batsman",
+        "rating": 95,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": 21000,
+        "playerImage": "https://i.ibb.co.com/v6t4fzh3/we-better-put-our-head-down-and-just-work-hard-every-day-of-our-lives-kohli.webp"
+    },
+    {
+        "id": 2,
+        "playerName": "Babar Azam",
+        "playerCountry": "Pakistan",
+        "playerType": "Batsman",
+        "rating": 93,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm off break",
+        "price": 18000,
+        "playerImage": "https://i.ibb.co.com/99D5F80M/1773205615139-babarazamdrasticstep.webp"
+    },
+    {
+        "id": 3,
+        "playerName": "Shakib Al Hasan",
+        "playerCountry": "Bangladesh",
+        "playerType": "All-rounder",
+        "rating": 94,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Slow left-arm orthodox",
+        "price": 16000,
+        "playerImage": "https://i.ibb.co.com/yFdQvpsS/sh.jpg"
+    },
+    {
+        "id": 4,
+        "playerName": "Jasprit Bumrah",
+        "playerCountry": "India",
+        "playerType": "Bowler",
+        "rating": 96,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": 19000,
+        "playerImage": "https://i.ibb.co.com/jZsR4b7p/aa-Cover-ipb96js2k0ajht541p6j1lpu57-20190607030640-Medi.jpg"
+    },
+    {
+        "id": 5,
+        "playerName": "Joe Root",
+        "playerCountry": "England",
+        "playerType": "Batsman",
+        "rating": 92,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm off break",
+        "price": 15000,
+        "playerImage": "https://i.ibb.co.com/DP3F0h44/skysports-joe-root-england-6835499.jpg"
+    },
+    {
+        "id": 6,
+        "playerName": "Kane Williamson",
+        "playerCountry": "New Zealand",
+        "playerType": "Batsman",
+        "rating": 91,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm off break",
+        "price": 14000,
+        "playerImage": "https://i.ibb.co.com/zT4cq1rN/130918182-gettyimages-1245219425.jpg"
+    },
+    {
+        "id": 7,
+        "playerName": "Pat Cummins",
+        "playerCountry": "Australia",
+        "playerType": "Bowler",
+        "rating": 94,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": 20000,
+        "playerImage": "https://i.ibb.co.com/4w2xyRML/a2e6c720-88a5-11f0-8b3f-67b2e7d47fb0.jpg"
+    },
+    {
+        "id": 8,
+        "playerName": "Jos Buttler",
+        "playerCountry": "England",
+        "playerType": "Wicketkeeper",
+        "rating": 92,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Does not bowl regularly",
+        "price": 17000,
+        "playerImage": "https://i.ibb.co.com/7dC0TTDj/Jos20-HP-0000-Getty-Images-1410598044.jpg"
+    },
+    {
+        "id": 9,
+        "playerName": "Rashid Khan",
+        "playerCountry": "Afghanistan",
+        "playerType": "All-rounder",
+        "rating": 95,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm leg break",
+        "price": 18500,
+        "playerImage": "https://i.ibb.co.com/6RYmK63Z/422503-6.webp"
+    },
+    {
+        "id": 10,
+        "playerName": "Trent Boult",
+        "playerCountry": "New Zealand",
+        "playerType": "Bowler",
+        "rating": 91,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm fast-medium",
+        "price": 13000,
+        "playerImage": "https://i.ibb.co.com/vxhRbqFL/Britain-Cricket-England-New-Zealand-55-1694671939051-1694671959331.webp"
+    }
+]
